@@ -17,7 +17,7 @@ The dataset consists of a set of labelled images for each emotion.
 ## Tech Stack
 
 - **Python 3.8+**
-- **TensorFlow
+- **TensorFlow**
 - **Pandas & NumPy (for data processing)**
 - **Matplotlib (for visualization)**
 
